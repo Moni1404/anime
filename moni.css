@@ -1,0 +1,74 @@
+body{
+  background: url(https://wallpaperaccess.com/full/1595907.jpg);
+ }
+.heading{
+    color: brown;
+    background-color: bisque;
+    width: 900px;
+    height: 40px;
+    margin-left: 220px;
+    margin-top: 60px;
+     text-align: center;
+   }
+   .first{
+    text-align: center;
+    color: whitesmoke;
+    padding: 20px;
+    }
+    firstimage{
+      text-align: center;
+      padding: 50px;
+      }
+      
+      .second{
+      text-align: center; 
+      color: white;
+      padding: 20px;
+      }
+      
+      .secondimage{
+      text-align: center;
+      }
+      
+      
+      .third{
+        text-align: center;
+        color: white;
+        padding: 20px;
+        }
+        thirdimage{
+          text-align: center;
+          padding: 50px;
+          }
+          
+          .fourth{
+          text-align: center; 
+          color: white;
+          padding: 20px;
+          }
+          
+          .fourthimage{
+          text-align: center;
+        
+          }
+          .fifth{
+            text-align: center;
+            color: white;
+            padding: 20px;
+          }
+          
+          .fifthhimage{
+            text-align: center;
+            padding: 50px;
+            }
+            
+            .image{
+            width: 150px; height: 150px;
+            border-radius: 5px 5px 5px 5px; margin-left: 20px;
+            margin-top: 30px;
+            }
+            body{
+               border: 8px solid pink;
+              border-radius: 6px;
+            }
+            
